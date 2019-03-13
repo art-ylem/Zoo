@@ -8,7 +8,7 @@ public class EveryAnimal {
 
     }
 
-    public String Sound(){
+    public String sound(){
         return "Звук любого другого животного";
     }
 }

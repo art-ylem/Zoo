@@ -11,5 +11,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         EveryAnimal[] animalArray = {new Antelope(), new Cheetah(), new Moose(), new Bear(),new Wolf(),new Lion(), new Zebra()};
+
+        
     }
 }

@@ -2,7 +2,7 @@ package com.example.zoo;
 
 public class Predators extends EveryAnimal {
 
-    public String Sound(){
+    public String sound(){
         return "Р-р-р-р...";
     }
 }
