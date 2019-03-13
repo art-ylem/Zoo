@@ -1,12 +1,6 @@
 package com.example.zoo;
 
-public class EveryAnimal {
-
-
-
-    public void onClick(){
-
-    }
+public class EveryAnimal extends General{
 
     public String sound(){
         return "Звук любого другого животного";

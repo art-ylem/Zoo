@@ -10,8 +10,8 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        EveryAnimal[] animalArray = {new Antelope(), new Cheetah(), new Moose(), new Bear(),new Wolf(),new Lion(), new Zebra()};
+        General[] animalArray = {new Antelope(), new Cheetah(), new Moose(), new Bear(),new Wolf(),new Lion(), new Zebra(), new Advertising("Text")};
 
-        
+
     }
 }
